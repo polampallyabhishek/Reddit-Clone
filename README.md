@@ -1,2 +1,7 @@
-# Reddit-Clone
-This is a Reddit Clone built with the modern stack - React, Next JS, Tailwind CSS, TypeORM and PostgreSQL.
+# Awesome Project Build with TypeORM
+
+Steps to run this project:
+
+1. Run `npm i` command
+2. Setup database settings inside `ormconfig.json` file
+3. Run `npm start` command
