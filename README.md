@@ -1,7 +1,5 @@
-# Awesome Project Build with TypeORM
+# Fullstack Reddit Clone
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+Frontend Stack - Typescript, React JS, Next JS, Tailwind CSS
+Backend Stack - Node JS, TypeORM
+Database - PostgreSQL
